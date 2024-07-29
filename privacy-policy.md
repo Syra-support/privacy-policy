@@ -1,7 +1,7 @@
 # Syra Supporte
 
 # Syra-DiscordBot-PrivacyPolicy
-Privacy Policy of Master DiscordBot
+Privacy Policy of Syra DiscordBot
 
 # Privacy Policy
 
@@ -33,7 +33,7 @@ Privacy Policy of Master DiscordBot
 
 ##  Who can read this data?
 
-- **People can only see if you're blacklisted when commands don't work**. The **detailed information can only be seen by Master Admins/Developers**.
+- **People can only see if you're blacklisted when commands don't work**. The **detailed information can only be seen by Syra Admins/Developers**.
 - **All Muted, Mutedrole, Prefix, and Modlog data can be accessed by Syra Admins/Developers**. Only **server administrator/moderators can see their own guild modlogs other if they wish to make it public**.
 - **Suggestions and/or bug reports can be seen by anyone in our [Support Server](https://discord.gg/syra)**
 
@@ -54,4 +54,4 @@ Clearing this data does not clear blacklist data or muted data.*
 ##### This policy was last updated on monday 29th, 2024.
 
 
-## [Invite Master](https://discord.com/oauth2/authorize?client_id=785840572077703218&scope=bot&permissions=8)
+## [Invite Syra](https://discord.com/oauth2/authorize?client_id=785840572077703218&scope=bot&permissions=8)
